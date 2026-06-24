@@ -16,7 +16,7 @@
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-saigopalrathod.com-667EEA?style=for-the-badge&logo=googlechrome&logoColor=white&labelColor=0D1117)](https://saigopalrathod.com/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-sai--gopal--rathod-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0D1117)](https://www.linkedin.com/in/sai-gopal-rathod/)
-[![Email](https://img.shields.io/badge/Email-saigopalrathod5@gmail.com-1ABC9C?style=for-the-badge&logo=gmail&logoColor=white&labelColor=0D1117)](mailto:saigopalrathod5@gmail.com)
+[![Email](https://img.shields.io/badge/Email-saigopalrathod.gre@gmail.com-1ABC9C?style=for-the-badge&logo=gmail&logoColor=white&labelColor=0D1117)](mailto:saigopalrathod.gre@gmail.com)
 [![Location](https://img.shields.io/badge/New_York,_NY-E67E22?style=for-the-badge&logo=googlemaps&logoColor=white&labelColor=0D1117)](#)
 
 <img src="https://komarev.com/ghpvc/?username=saigopal-rathod&style=for-the-badge&color=667EEA&label=PROFILE+VIEWS&labelColor=0D1117" alt="profile views"/>
@@ -328,7 +328,7 @@ timeline
 ### 💬 Let's build something intelligent.
 
 [![Portfolio](https://img.shields.io/badge/→_saigopalrathod.com-667EEA?style=for-the-badge&logo=googlechrome&logoColor=white&labelColor=0D1117)](https://saigopalrathod.com/)
-[![Email](https://img.shields.io/badge/→_Email_me-1ABC9C?style=for-the-badge&logo=gmail&logoColor=white&labelColor=0D1117)](mailto:saigopalrathod5@gmail.com)
+[![Email](https://img.shields.io/badge/→_Email_me-1ABC9C?style=for-the-badge&logo=gmail&logoColor=white&labelColor=0D1117)](mailto:saigopalrathod.gre@gmail.com)
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:667EEA,60:764BA2,100:0D1117&height=140&section=footer" width="100%"/>
 
